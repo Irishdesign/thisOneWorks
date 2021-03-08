@@ -54,3 +54,7 @@ After initializing Mongoose, we don’t need to write CRUD functions because Mon
 -   find User by email: User.findOne({ email: … })
 -   find User by username: User.findOne({ username: … })
 -   find all Roles which name in given roles array: Role.find({ name: { $in: roles } })
+
+# Q>WebSocket connection to 'ws://localhost:3000/sockjs-node' failed:
+
+A> https://www.youtube.com/watch?v=yuHspgoMB4Q
